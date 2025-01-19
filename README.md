@@ -47,7 +47,7 @@ This project presents RFM segementation for an e-commerce business for the perio
 #### Frequency Calculation 
 - Frequency is define on the basis of transaction count for each user.
 - Similar to recency, the statstical analysis is done for frequnecy also to define the buckets
-- SQL Code for frequency statistical analysis:
+- [SQL Code for frequency statistical analysis](https://raw.githubusercontent.com/anchalds246/RFM-Segmentation/refs/heads/main/Frequency_Stats.sql?token=GHSAT0AAAAAAC5GMA43KW2THLLLD23FXGE4Z4NENZQ)
 - Table showing the distribution of data:
 
 | Metric               | Total Customers | Min Transactions | Max Transactions | Avg Transactions | P25 Transactions | Median Transactions | P75 Transactions |
