@@ -67,7 +67,7 @@ This project presents RFM segementation for an e-commerce business for the perio
 #### Monetary Value (MV)
 - MV is defined as the revenue contributed by each customer
 - Statstical analysis for MV has also been done.
-- SQL code for MV statistical analysis 
+- [SQL code for MV statistical analysis](https://raw.githubusercontent.com/anchalds246/RFM-Segmentation/refs/heads/main/MV_Stats.sql?token=GHSAT0AAAAAAC5GMA43544OTLRYVX74GA3CZ4NEJ7A)
 - Table showing the distribution of data:
 
   | Metric               | Total Customers | Min Revenue | Max Revenue | Avg Revenue | P25 Revenue | Median Revenue | P75 Revenue |
