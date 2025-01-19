@@ -105,10 +105,10 @@ Combined the code for recency, frequency and monetary value and exceuted a SQL c
 [RFM Segmentation Code](https://raw.githubusercontent.com/anchalds246/RFM-Segmentation/refs/heads/main/new_rfm_1.sql?token=GHSAT0AAAAAAC5GMA43QZTVBJZEEDSAGH7CZ4NEOXQ)
 
 
-### Dashboard Designing [RFM Dashboard](
+### Dashboard Designing 
 - Load the data from the Google Bigquery to power BI (Saves time in loading all millions of rows direcly from the dataset)
 - Start Visualising the data
 - As maximum of the calculation has been done using the SQL, so there was no need of DAX calculation
-- The dashbaord has been uploaded in this repository.
+- The dashbaord has been uploaded in this repository named as new_rfm1.pbix.
 - The Dashboard was created and published to the POWER BI service :
   ![Image](https://github.com/user-attachments/assets/4aba05c2-8a1e-4f23-a1f8-d5f19e126fbe)
