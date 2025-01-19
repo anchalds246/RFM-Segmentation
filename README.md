@@ -109,4 +109,5 @@ Combined the code for recency, frequency and monetary value and exceuted a SQL c
 - Start Visualising the data
 - As maximum of the calculation has been done using the SQL, so there was no need of DAX calculation
 - The dashbaord has been uploaded in this repository.
-- The Dashboard was created and published to the POWER BI service 
+- The Dashboard was created and published to the POWER BI service :
+  ![Image](https://github.com/user-attachments/assets/4aba05c2-8a1e-4f23-a1f8-d5f19e126fbe)
