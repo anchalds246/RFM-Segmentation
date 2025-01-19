@@ -18,7 +18,7 @@ This project presents RFM segementation for an e-commerce business for the perio
   #### Recency Calculation
  - Define Recency as the difference between the last date of the dataset and latest purchase date. 
  - Define the buckets for the recency based on the distribution of data. For this, average, minimum, Maximum,  25th percentile, 50th percentile and median have been calculated to know about the distribution of data. 
-- SQL CODE for recency and statsical analysis : 
+- [SQL CODE for recency and statsical analysis](https://raw.githubusercontent.com/anchalds246/RFM-Segmentation/refs/heads/main/recency_Stats.sql?token=GHSAT0AAAAAAC5GMA43RE5Z6XOVUMDPNG7CZ4NEMQA)
 - Table showing the distribution of data:
   <div align="center">
 | **Metric**               | **Value** |
