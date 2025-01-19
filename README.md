@@ -100,9 +100,10 @@ This project presents RFM segementation for an e-commerce business for the perio
 | **Cannot Lose Them** | spent highest, and often. But haven’t interacted for a long time | '155', '144', '214', '215', '115', '114', '113'                                                            |
 | **Silent Shoppers**  | Last purchase was a long time back, low spenders, and not much orders | '332', '322', '231', '241', '251', '233', '223', '222', '132', '123', '122', '212', '211'                 |
 | **Lapsed**   | Lowest RFM values.                         | '111', '112', '121', '131', '141', '151'                                                                                |
-
 #### RFM Segmentation Code
 Combined the code for recency, frequency and monetary value and exceuted a SQL code for RFM. 
+[RFM Segmentation Code](https://raw.githubusercontent.com/anchalds246/RFM-Segmentation/refs/heads/main/new_rfm_1.sql?token=GHSAT0AAAAAAC5GMA43QZTVBJZEEDSAGH7CZ4NEOXQ)
+
 
 #### Dashboard Desining 
 - Load the data from the Google Bigquery to power BI (Saves time in loading all millions of rows direcly from the dataset)
