@@ -112,3 +112,12 @@ Combined the code for recency, frequency and monetary value and exceuted a SQL c
 - The dashbaord has been uploaded in this repository named as new_rfm1.pbix.
 - The Dashboard was created and published to the POWER BI service :
   ![Image](https://github.com/user-attachments/assets/4aba05c2-8a1e-4f23-a1f8-d5f19e126fbe)
+
+### Recommendations 
+Based on this analysis,  following are the recommendations have been drawn
+- As the business has very less percentage of champions and loyal customers, the focus should be on maintaining their loyality by exclusive discounts, or VIP treatment and also on improving this percentage by drawing other users attention towards these VIP treatmentsa and discounts.
+- Business has highest number of the Fresh Faces ( 72.49K) and this segment is generting second highest revenue (1.7M), business has a great opportunity to convert these recent customers into frequent buyers by personalised follow ups, loyality programs or point based rewards.
+- Business has 70.11% of one time buyers, there is a need of invesigation of why they are not purchasing again..Is there any problem with the product? Or the business has difficult buying or checkout process?
+
+### Potential Impact 
+If the business is sucessfull in motivating 38% customers of those fresh faces to make just one more purchase there could be 10% increase in the total revenue. 
